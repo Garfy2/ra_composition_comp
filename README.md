@@ -1,4 +1,5 @@
-[![Build status]
+[![Build status](https://ci.appveyor.com/api/projects/status/x59a009f0a6uv794?svg=true)](https://ci.appveyor.com/project/Garfy2/ra-composition-comp)
+
 
 # Composition
 
